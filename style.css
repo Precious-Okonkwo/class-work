@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+h1 {
+    background-color: rgb(189, 26, 26);
+    color: #f6f6f6;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+}
+
+header {
+    background-color: rgb(3, 3, 46);
+    color: #f6f6f6;
+    padding: 1rem 1rem;
+    margin: 1rem 0;
+}
